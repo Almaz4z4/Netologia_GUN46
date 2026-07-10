@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: Indicator
   m_EditorClassIdentifier: 
   <Settings>k__BackingField:
-  - Mult: 10
+  - Mult: 1
     Text: Wow
     Clip: {fileID: 0}
   - Mult: 2
     Text: Ohh
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: fd51f96a8ad2f70439e53e7ab4da7677, type: 2}
   - Mult: 3
     Text: Ohoh
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 171eb3e0d6d4ccb4b88a5fe31472fef3, type: 2}
   - Mult: 4
     Text: Wowowo
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: d4f9c67aceea06a4fa905d2358284745, type: 2}
   - Mult: 5
     Text: Exallent
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 4d5d3776185af9c489db6664b3bb2d8c, type: 2}
   - Mult: 6
     Text: OWO
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: f78e3ceb9714cf04b891ceb9d2647f46, type: 2}
